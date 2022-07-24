@@ -1,4 +1,4 @@
-# radial_gradient
+# linear_gradient
 
 A new Flutter project.
 
